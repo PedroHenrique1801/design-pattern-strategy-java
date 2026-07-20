@@ -27,6 +27,6 @@ O projeto também implementa uma regra de negócio adicional para demonstrar o c
 ## Como executar o projeto
 
 1. Certifique-se de ter o Java (JDK) configurado em sua máquina.
-2. Clone este repositório ou baixe os arquivos.
+2. Clone este repositório.
 3. Abra o diretório do projeto no terminal ou em sua IDE de preferência.
 4. Navegue até a pasta `src` e compile/execute o arquivo principal `Test.java`.
