@@ -6,7 +6,7 @@ public class Robo {
         this.comportamento = comportamento;
     }
 
-    public void mover() {
+    public void mover() {  
         if (bateria <= 0) {
             System.out.println("[ERRO] Bateria esgotada! O robô não pode se mover. Recarregue.");
             return;
