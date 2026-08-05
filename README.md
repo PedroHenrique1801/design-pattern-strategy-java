@@ -1,4 +1,4 @@
-# Projeto Padrão Strategy em Java
+# Projeto Padrão Strategy em Java  
 
 Este projeto é uma implementação prática do padrão de projeto de software estrutural Strategy, desenvolvido em Java puro. O objetivo principal é demonstrar como alterar o comportamento de um objeto em tempo de execução sem a necessidade de modificar sua estrutura interna utilizando estruturas condicionais complexas.
 
