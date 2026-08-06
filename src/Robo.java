@@ -19,7 +19,7 @@ public class Robo {
 
         comportamento.mover();
         
-        bateria -= 20; 
+        bateria -= 20;
         System.out.println("(Nível atual da bateria: " + bateria + "%)\n");
     }
 
