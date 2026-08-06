@@ -14,7 +14,7 @@ public class Robo {
 
         if (bateria <= 20 && !(this.comportamento instanceof ComportamentoDefensivo)) {
             System.out.println("[ALERTA] Bateria crítica (" + bateria + "%). Trocando para modo DEFENSIVO automaticamente para poupar energia!");
-            this.comportamento = new ComportamentoDefensivo();
+            this.comportamento = new ComportamentoDefensivo();  
         }
 
         comportamento.mover();
