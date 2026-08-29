@@ -17,7 +17,7 @@ O projeto também implementa uma regra de negócio adicional para demonstrar o c
 * Padrão Strategy aplicado ao comportamento do robô.
 * Classes de comportamento: Normal, Defensivo e Agressivo.
 * Sistema de consumo e recarga de bateria simulado.
-* Inteligência de contexto (troca autônoma de estratégia).
+* Inteligência de contexto (troca autônoma de estratégia).    
 
 ## Tecnologias utilizadas
 
